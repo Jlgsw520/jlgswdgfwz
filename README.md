@@ -10,6 +10,8 @@
 
 ## [神秘宝库](https://jlgsw520.github.io/smbk/reader)
 
+## [图片链接生成器（其他人不要点，对你来说没用）](https://jlgsw520.github.io/smbk/gen)
+
 # 公告
 * * *
 
