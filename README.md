@@ -8,6 +8,8 @@
 
 ## [试验区](https://jlgsw520.github.io/jlgswdgfwz/README2)
 
+## [神秘宝库](https://jlgsw520.github.io/smbk/reader)
+
 # 公告
 * * *
 
