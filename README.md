@@ -8,7 +8,7 @@
 
 ## [试验区](https://jlgsw520.github.io/jlgswdgfwz/README2)
 
-## [神秘宝库](https://jlgsw520.github.io/smbk/reader)
+## [神秘宝库](https://jlgsw520.github.io/smbk/index)
 
 ## [图片链接生成器（其他人不要点，对你来说没用）](https://jlgsw520.github.io/smbk/gen)
 
